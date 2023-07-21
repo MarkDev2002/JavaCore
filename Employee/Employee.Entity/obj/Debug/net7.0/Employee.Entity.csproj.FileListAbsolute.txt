@@ -1,0 +1,12 @@
+C:\Users\kinhc\Documents\Employee\Employee.Entity\bin\Debug\net7.0\Employee.Entity.deps.json
+C:\Users\kinhc\Documents\Employee\Employee.Entity\bin\Debug\net7.0\Employee.Entity.dll
+C:\Users\kinhc\Documents\Employee\Employee.Entity\bin\Debug\net7.0\Employee.Entity.pdb
+C:\Users\kinhc\Documents\Employee\Employee.Entity\obj\Debug\net7.0\Employee.Entity.csproj.AssemblyReference.cache
+C:\Users\kinhc\Documents\Employee\Employee.Entity\obj\Debug\net7.0\Employee.Entity.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kinhc\Documents\Employee\Employee.Entity\obj\Debug\net7.0\Employee.Entity.AssemblyInfoInputs.cache
+C:\Users\kinhc\Documents\Employee\Employee.Entity\obj\Debug\net7.0\Employee.Entity.AssemblyInfo.cs
+C:\Users\kinhc\Documents\Employee\Employee.Entity\obj\Debug\net7.0\Employee.Entity.csproj.CoreCompileInputs.cache
+C:\Users\kinhc\Documents\Employee\Employee.Entity\obj\Debug\net7.0\Employee.Entity.dll
+C:\Users\kinhc\Documents\Employee\Employee.Entity\obj\Debug\net7.0\refint\Employee.Entity.dll
+C:\Users\kinhc\Documents\Employee\Employee.Entity\obj\Debug\net7.0\Employee.Entity.pdb
+C:\Users\kinhc\Documents\Employee\Employee.Entity\obj\Debug\net7.0\ref\Employee.Entity.dll
