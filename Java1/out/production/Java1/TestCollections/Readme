@@ -1,0 +1,12 @@
+-Collection là cấu trúc dữ liệu được sử dụng để nắm giữ nhiều phần tử
+    +Thêm , sửa , xóa , cập nhật các phần tử
+    +Hợp giao trừ các tập hợp
+
+-Được chia làm 2 loại : List và Set
+    +List là collection mà mỗi phần tử được phép xuất hiện "nhiều lần" và được truy xuất theo chỉ số
+    +Set là collection mà mỗi phần tử được phép xuất hiện duy nhất "1 lần" và được phép truy xuất theo chỉ số
+
+-Lớp collections cũng cung cấp các tiện ích để xử lý List
+
+- ArrayList : dễ dàng truy xuất đối tượng
+  LinkedList : dễ dàng thêm/bớt
